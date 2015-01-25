@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1421970547 source:d:\dropbox\udea\informatica ii\villa 2014\lab(lennis)\informaticaii\practica4\punto2x\punto2\cilinder.cpp
+	"cilinder.h"
+	<math.h>
+	"iostream."
+
+1421972374 d:\dropbox\udea\informatica ii\villa 2014\lab(lennis)\informaticaii\practica4\punto2x\punto2\cilinder.h
+
+1421972343 source:d:\dropbox\udea\informatica ii\villa 2014\lab(lennis)\informaticaii\practica4\punto2x\punto2\cilinderhole.cpp
+	"cilinderHole.h"
+	"math.h"
+	"iostream"
+
+1421972263 d:\dropbox\udea\informatica ii\villa 2014\lab(lennis)\informaticaii\practica4\punto2x\punto2\cilinderhole.h
+	"cilinder.h"
+
+1421972115 source:d:\dropbox\udea\informatica ii\villa 2014\lab(lennis)\informaticaii\practica4\punto2x\punto2\main.cpp
+	<iostream>
+	"cilinder.h"
+	"cilinderHole.h"
+
